@@ -1,0 +1,30 @@
+++++++++conversor de moedas dependencias usadas principais+++++++++++++++++++
+*Fixer.io: cotaçoes do dinheito usando esta apis
+*axios: chamada da requisição http
+*font awesome: gerar varios tipos de icones pegando no site
+
++++++++++++conversor de moedas criando projeto++++++++++++++
+*npx create-react-app conversor-de-moedas:terminal criando em react conversor projeto
+*npm install react-bootstrap bootstrap --save :terminal instalando bootstrap no projeto para adicionais de css eu diria
+*npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome   :terminal instalando fontawesome   
+*npm install --save axios   : terminal instalando chamada da requisição http
+*npm install --save-dev @testing-library/react @testing-library/jest-dom   :terminal instalar biblioteca de teste
+*npm test   :terminal ver se testes estão rodando e se ta funcionando tudo
+
+++++++++fixer io++++++++++++++
+*gerar uma url no fixer.io site oficial , no plano free..> http://data.fixer.io/api/latest?access_key=eba7130a5b2d720ce43eb5fcddd47cc3 url com informação da cotação com base no euro
+*jsonView    :para baixar e ver melhor o json fica mais visivel pelo google chrome pelo menos
+
+
+
+
+
+
+
+
+
+
+
+
+npm start
+cd .1projetosCode\conversor-moedas\conversor-de-moedas
